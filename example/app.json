@@ -1,0 +1,44 @@
+{
+  "expo": {
+    "name": "expo-dynamic-app-icon-example",
+    "slug": "expo-dynamic-app-icon-example",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "light",
+    "newArchEnabled": true,
+    "splash": {
+      "image": "./assets/splash-icon.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "expo.modules.dynamicappicon.example"
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#ffffff"
+      },
+      "package": "expo.modules.dynamicappicon.example"
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "plugins": [
+      [
+        "../app.plugin.js",
+        {
+          "rabbit": {
+            "image": "./assets/rabbit.png",
+            "prerendered": true
+          },
+          "goose": {
+            "image": "./assets/goose.png"
+          }
+        }
+      ]
+    ]
+  }
+}
