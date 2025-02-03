@@ -6,11 +6,11 @@ For iOS, this module relies on [UIApplication.shared.setAlternateIconName](https
 
 For Android, this is no native support for changing app icon progammatically, so we use [activity-alias](https://developer.android.com/guide/topics/manifest/activity-alias-element) and activity lifecycles to change app icons safely.
 
-For Web, it calls back to a [no-op](https://en.wikipedia.org/wiki/NOP_(code))
+For Web, it calls back to a [no-op](<https://en.wikipedia.org/wiki/NOP_(code)>)
 
 # Install
 
-```npx expo install @variant-systems/expo-dynamic-app-icon```
+`npx expo install @variant-systems/expo-dynamic-app-icon`
 
 # Plugin
 
@@ -43,21 +43,13 @@ interface Config {
     "image": string, // icon path
     "prerender"?: boolean // for ios UIPrerenderedIcon option
   }
-} 
-```
-
-```
-"plugins": [
-  [
-    "@variant-systems/expo-dynamic-app-icon", config
-  ]
-]
+}
 ```
 
 # Usage
 
 ```
-import ExpoDynamicAppIcon from "expo-dynamic-app-icon";
+import ExpoDynamicAppIcon from "@variant-systems/expo-dynamic-app-icon";
 import { Text, View, Image, Pressable, SafeAreaView } from "react-native";
 
 export default function App() {
