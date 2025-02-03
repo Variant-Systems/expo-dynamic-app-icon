@@ -1,5 +1,5 @@
 {
-  "name": "expo-dynamic-app-icon",
+  "name": "@variant-systems/expo-dynamic-app-icon",
   "version": "1.0.0",
   "description": "Dynamic app icons for ios and android",
   "main": "build/index.js",
@@ -25,7 +25,7 @@
   "bugs": {
     "url": "https://github.com/Variant-Systems/expo-dynamic-app-icon/issues"
   },
-  "author": "variant systems <contact@vipultechlab.com> (https://github.com/Variant-Systems)",
+  "author": "variant systems (https://github.com/Variant-Systems)",
   "license": "MIT",
   "homepage": "https://github.com/Variant-Systems/expo-dynamic-app-icon#readme",
   "dependencies": {},
