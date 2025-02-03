@@ -7,50 +7,50 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		06188D77953F47A78D0C62B6 /* rabbit-Icon-$60x60@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 3A04AC5D41784683B1F9042A /* rabbit-Icon-$60x60@2x.png */; };
 		13B07FBC1A68108700A75B9A /* AppDelegate.mm in Sources */ = {isa = PBXBuildFile; fileRef = 13B07FB01A68108700A75B9A /* AppDelegate.mm */; };
 		13B07FBF1A68108700A75B9A /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 13B07FB51A68108700A75B9A /* Images.xcassets */; };
 		13B07FC11A68108700A75B9A /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 13B07FB71A68108700A75B9A /* main.m */; };
+		1DB016335ED7423B86EDCEBD /* rabbit-Icon-$60x60@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = 0BA1D3C49F6C489F925835D6 /* rabbit-Icon-$60x60@3x.png */; };
+		201149F5729441729B23A6F1 /* noop-file.swift in Sources */ = {isa = PBXBuildFile; fileRef = EE3F6E76824342B3B99C59AE /* noop-file.swift */; };
 		3E461D99554A48A4959DE609 /* SplashScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = AA286B85B6C04FC6940260E9 /* SplashScreen.storyboard */; };
-		4341BCD9D73F42C48BE571A5 /* rabbit-Icon-$60x60@2x~ipad.png in Resources */ = {isa = PBXBuildFile; fileRef = 870092CB78864E3A92454158 /* rabbit-Icon-$60x60@2x~ipad.png */; };
-		4F176FC8BF0C4C8E8193D259 /* noop-file.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6AE2846B18D24AD582002879 /* noop-file.swift */; };
-		5D4A7791D8BA4CBAA20B40F7 /* goose-Icon-$60x60@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = AB607A18C88348378CA1CFC1 /* goose-Icon-$60x60@2x.png */; };
-		648E75B8A10845E3AA187FB9 /* goose-Icon-$60x60@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = DD104F63CDBE4C5E9C385F5C /* goose-Icon-$60x60@3x.png */; };
-		739C83CFB2254675A1C90CB3 /* rabbit-Icon-$60x60@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = AA397A54BB8C47278A5D4C5F /* rabbit-Icon-$60x60@2x.png */; };
+		4FD5B28AC43444E1968C68C8 /* goose-Icon-$60x60@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = FC8DCBA786FD4BA4916FAE8D /* goose-Icon-$60x60@3x.png */; };
+		60DA1650804857A6BEFEE7CA /* PrivacyInfo.xcprivacy in Resources */ = {isa = PBXBuildFile; fileRef = 5020F1A1390B082B69E8AF40 /* PrivacyInfo.xcprivacy */; };
+		64BD1FE400E34E8DA93FB3BA /* goose-Icon-$60x60@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = B3C0999889A54242BF1B33B4 /* goose-Icon-$60x60@2x.png */; };
+		7F29546859B24EA392BCC59F /* goose-Icon-$60x60@2x~ipad.png in Resources */ = {isa = PBXBuildFile; fileRef = 46EBBB7324D74CD0BC9FFAF8 /* goose-Icon-$60x60@2x~ipad.png */; };
 		96905EF65AED1B983A6B3ABC /* libPods-expodynamicappiconexample.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 58EEBF8E8E6FB1BC6CAF49B5 /* libPods-expodynamicappiconexample.a */; };
-		9EA49466354D6A322F545861 /* PrivacyInfo.xcprivacy in Resources */ = {isa = PBXBuildFile; fileRef = 03F7EB5D392B612FE55E4A59 /* PrivacyInfo.xcprivacy */; };
-		AA31150292BB4A5DBE85011A /* rabbit-Icon-$60x60@3x~ipad.png in Resources */ = {isa = PBXBuildFile; fileRef = A82358580AB549CBA31D2B50 /* rabbit-Icon-$60x60@3x~ipad.png */; };
+		98F24F4600A04470AE14BA17 /* goose-Icon-$60x60@3x~ipad.png in Resources */ = {isa = PBXBuildFile; fileRef = E908FBCAD17C48D0B48C7E8F /* goose-Icon-$60x60@3x~ipad.png */; };
 		B18059E884C0ABDD17F3DC3D /* ExpoModulesProvider.swift in Sources */ = {isa = PBXBuildFile; fileRef = FAC715A2D49A985799AEE119 /* ExpoModulesProvider.swift */; };
+		B60F5037897E4C51BA833B18 /* rabbit-Icon-$60x60@3x~ipad.png in Resources */ = {isa = PBXBuildFile; fileRef = CA22274F551240FB942B6E3E /* rabbit-Icon-$60x60@3x~ipad.png */; };
 		BB2F792D24A3F905000567C9 /* Expo.plist in Resources */ = {isa = PBXBuildFile; fileRef = BB2F792C24A3F905000567C9 /* Expo.plist */; };
-		C52A75A22FB14605853E6012 /* goose-Icon-$60x60@3x~ipad.png in Resources */ = {isa = PBXBuildFile; fileRef = 2866087654474D6BA0C137F4 /* goose-Icon-$60x60@3x~ipad.png */; };
-		E071B9FB286F43E7AFF8C880 /* goose-Icon-$60x60@2x~ipad.png in Resources */ = {isa = PBXBuildFile; fileRef = 5AEB87A4ACDB41D6BE8215A3 /* goose-Icon-$60x60@2x~ipad.png */; };
-		E39E49B18DDF4A66B030D920 /* rabbit-Icon-$60x60@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = 40920A0A871A46608E3934EA /* rabbit-Icon-$60x60@3x.png */; };
+		F24A40D602894718BEA2B1D4 /* rabbit-Icon-$60x60@2x~ipad.png in Resources */ = {isa = PBXBuildFile; fileRef = 4900230101124EA6A49E4DFD /* rabbit-Icon-$60x60@2x~ipad.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		03F7EB5D392B612FE55E4A59 /* PrivacyInfo.xcprivacy */ = {isa = PBXFileReference; includeInIndex = 1; name = PrivacyInfo.xcprivacy; path = expodynamicappiconexample/PrivacyInfo.xcprivacy; sourceTree = "<group>"; };
+		0BA1D3C49F6C489F925835D6 /* rabbit-Icon-$60x60@3x.png */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = undefined; includeInIndex = 0; lastKnownFileType = unknown; name = "rabbit-Icon-$60x60@3x.png"; path = "expodynamicappiconexample/DynamicAppIcons/rabbit-Icon-$60x60@3x.png"; sourceTree = "<group>"; };
 		13B07F961A680F5B00A75B9A /* expodynamicappiconexample.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = expodynamicappiconexample.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		13B07FAF1A68108700A75B9A /* AppDelegate.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = AppDelegate.h; path = expodynamicappiconexample/AppDelegate.h; sourceTree = "<group>"; };
 		13B07FB01A68108700A75B9A /* AppDelegate.mm */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.objcpp; name = AppDelegate.mm; path = expodynamicappiconexample/AppDelegate.mm; sourceTree = "<group>"; };
 		13B07FB51A68108700A75B9A /* Images.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; name = Images.xcassets; path = expodynamicappiconexample/Images.xcassets; sourceTree = "<group>"; };
 		13B07FB61A68108700A75B9A /* Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; name = Info.plist; path = expodynamicappiconexample/Info.plist; sourceTree = "<group>"; };
 		13B07FB71A68108700A75B9A /* main.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = main.m; path = expodynamicappiconexample/main.m; sourceTree = "<group>"; };
-		2866087654474D6BA0C137F4 /* goose-Icon-$60x60@3x~ipad.png */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = undefined; includeInIndex = 0; lastKnownFileType = unknown; name = "goose-Icon-$60x60@3x~ipad.png"; path = "expodynamicappiconexample/DynamicAppIcons/goose-Icon-$60x60@3x~ipad.png"; sourceTree = "<group>"; };
-		40920A0A871A46608E3934EA /* rabbit-Icon-$60x60@3x.png */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = undefined; includeInIndex = 0; lastKnownFileType = unknown; name = "rabbit-Icon-$60x60@3x.png"; path = "expodynamicappiconexample/DynamicAppIcons/rabbit-Icon-$60x60@3x.png"; sourceTree = "<group>"; };
+		3A04AC5D41784683B1F9042A /* rabbit-Icon-$60x60@2x.png */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = undefined; includeInIndex = 0; lastKnownFileType = unknown; name = "rabbit-Icon-$60x60@2x.png"; path = "expodynamicappiconexample/DynamicAppIcons/rabbit-Icon-$60x60@2x.png"; sourceTree = "<group>"; };
+		46EBBB7324D74CD0BC9FFAF8 /* goose-Icon-$60x60@2x~ipad.png */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = undefined; includeInIndex = 0; lastKnownFileType = unknown; name = "goose-Icon-$60x60@2x~ipad.png"; path = "expodynamicappiconexample/DynamicAppIcons/goose-Icon-$60x60@2x~ipad.png"; sourceTree = "<group>"; };
+		4900230101124EA6A49E4DFD /* rabbit-Icon-$60x60@2x~ipad.png */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = undefined; includeInIndex = 0; lastKnownFileType = unknown; name = "rabbit-Icon-$60x60@2x~ipad.png"; path = "expodynamicappiconexample/DynamicAppIcons/rabbit-Icon-$60x60@2x~ipad.png"; sourceTree = "<group>"; };
+		5020F1A1390B082B69E8AF40 /* PrivacyInfo.xcprivacy */ = {isa = PBXFileReference; includeInIndex = 1; name = PrivacyInfo.xcprivacy; path = expodynamicappiconexample/PrivacyInfo.xcprivacy; sourceTree = "<group>"; };
 		58EEBF8E8E6FB1BC6CAF49B5 /* libPods-expodynamicappiconexample.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-expodynamicappiconexample.a"; sourceTree = BUILT_PRODUCTS_DIR; };
-		5AEB87A4ACDB41D6BE8215A3 /* goose-Icon-$60x60@2x~ipad.png */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = undefined; includeInIndex = 0; lastKnownFileType = unknown; name = "goose-Icon-$60x60@2x~ipad.png"; path = "expodynamicappiconexample/DynamicAppIcons/goose-Icon-$60x60@2x~ipad.png"; sourceTree = "<group>"; };
-		6AE2846B18D24AD582002879 /* noop-file.swift */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 4; includeInIndex = 0; lastKnownFileType = sourcecode.swift; name = "noop-file.swift"; path = "expodynamicappiconexample/noop-file.swift"; sourceTree = "<group>"; };
 		6C2E3173556A471DD304B334 /* Pods-expodynamicappiconexample.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-expodynamicappiconexample.debug.xcconfig"; path = "Target Support Files/Pods-expodynamicappiconexample/Pods-expodynamicappiconexample.debug.xcconfig"; sourceTree = "<group>"; };
 		7A4D352CD337FB3A3BF06240 /* Pods-expodynamicappiconexample.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-expodynamicappiconexample.release.xcconfig"; path = "Target Support Files/Pods-expodynamicappiconexample/Pods-expodynamicappiconexample.release.xcconfig"; sourceTree = "<group>"; };
-		870092CB78864E3A92454158 /* rabbit-Icon-$60x60@2x~ipad.png */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = undefined; includeInIndex = 0; lastKnownFileType = unknown; name = "rabbit-Icon-$60x60@2x~ipad.png"; path = "expodynamicappiconexample/DynamicAppIcons/rabbit-Icon-$60x60@2x~ipad.png"; sourceTree = "<group>"; };
-		8A486F8040CD4824829EF1FC /* expodynamicappiconexample-Bridging-Header.h */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 4; includeInIndex = 0; lastKnownFileType = sourcecode.c.h; name = "expodynamicappiconexample-Bridging-Header.h"; path = "expodynamicappiconexample/expodynamicappiconexample-Bridging-Header.h"; sourceTree = "<group>"; };
-		A82358580AB549CBA31D2B50 /* rabbit-Icon-$60x60@3x~ipad.png */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = undefined; includeInIndex = 0; lastKnownFileType = unknown; name = "rabbit-Icon-$60x60@3x~ipad.png"; path = "expodynamicappiconexample/DynamicAppIcons/rabbit-Icon-$60x60@3x~ipad.png"; sourceTree = "<group>"; };
+		9F10C26FA46847489938DFE1 /* expodynamicappiconexample-Bridging-Header.h */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 4; includeInIndex = 0; lastKnownFileType = sourcecode.c.h; name = "expodynamicappiconexample-Bridging-Header.h"; path = "expodynamicappiconexample/expodynamicappiconexample-Bridging-Header.h"; sourceTree = "<group>"; };
 		AA286B85B6C04FC6940260E9 /* SplashScreen.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; name = SplashScreen.storyboard; path = expodynamicappiconexample/SplashScreen.storyboard; sourceTree = "<group>"; };
-		AA397A54BB8C47278A5D4C5F /* rabbit-Icon-$60x60@2x.png */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = undefined; includeInIndex = 0; lastKnownFileType = unknown; name = "rabbit-Icon-$60x60@2x.png"; path = "expodynamicappiconexample/DynamicAppIcons/rabbit-Icon-$60x60@2x.png"; sourceTree = "<group>"; };
-		AB607A18C88348378CA1CFC1 /* goose-Icon-$60x60@2x.png */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = undefined; includeInIndex = 0; lastKnownFileType = unknown; name = "goose-Icon-$60x60@2x.png"; path = "expodynamicappiconexample/DynamicAppIcons/goose-Icon-$60x60@2x.png"; sourceTree = "<group>"; };
+		B3C0999889A54242BF1B33B4 /* goose-Icon-$60x60@2x.png */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = undefined; includeInIndex = 0; lastKnownFileType = unknown; name = "goose-Icon-$60x60@2x.png"; path = "expodynamicappiconexample/DynamicAppIcons/goose-Icon-$60x60@2x.png"; sourceTree = "<group>"; };
 		BB2F792C24A3F905000567C9 /* Expo.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = Expo.plist; sourceTree = "<group>"; };
-		DD104F63CDBE4C5E9C385F5C /* goose-Icon-$60x60@3x.png */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = undefined; includeInIndex = 0; lastKnownFileType = unknown; name = "goose-Icon-$60x60@3x.png"; path = "expodynamicappiconexample/DynamicAppIcons/goose-Icon-$60x60@3x.png"; sourceTree = "<group>"; };
+		CA22274F551240FB942B6E3E /* rabbit-Icon-$60x60@3x~ipad.png */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = undefined; includeInIndex = 0; lastKnownFileType = unknown; name = "rabbit-Icon-$60x60@3x~ipad.png"; path = "expodynamicappiconexample/DynamicAppIcons/rabbit-Icon-$60x60@3x~ipad.png"; sourceTree = "<group>"; };
+		E908FBCAD17C48D0B48C7E8F /* goose-Icon-$60x60@3x~ipad.png */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = undefined; includeInIndex = 0; lastKnownFileType = unknown; name = "goose-Icon-$60x60@3x~ipad.png"; path = "expodynamicappiconexample/DynamicAppIcons/goose-Icon-$60x60@3x~ipad.png"; sourceTree = "<group>"; };
 		ED297162215061F000B7C4FE /* JavaScriptCore.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = JavaScriptCore.framework; path = System/Library/Frameworks/JavaScriptCore.framework; sourceTree = SDKROOT; };
+		EE3F6E76824342B3B99C59AE /* noop-file.swift */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 4; includeInIndex = 0; lastKnownFileType = sourcecode.swift; name = "noop-file.swift"; path = "expodynamicappiconexample/noop-file.swift"; sourceTree = "<group>"; };
 		FAC715A2D49A985799AEE119 /* ExpoModulesProvider.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = ExpoModulesProvider.swift; path = "Pods/Target Support Files/Pods-expodynamicappiconexample/ExpoModulesProvider.swift"; sourceTree = "<group>"; };
+		FC8DCBA786FD4BA4916FAE8D /* goose-Icon-$60x60@3x.png */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = undefined; includeInIndex = 0; lastKnownFileType = unknown; name = "goose-Icon-$60x60@3x.png"; path = "expodynamicappiconexample/DynamicAppIcons/goose-Icon-$60x60@3x.png"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -75,10 +75,10 @@
 				13B07FB61A68108700A75B9A /* Info.plist */,
 				13B07FB71A68108700A75B9A /* main.m */,
 				AA286B85B6C04FC6940260E9 /* SplashScreen.storyboard */,
-				6AE2846B18D24AD582002879 /* noop-file.swift */,
-				8A486F8040CD4824829EF1FC /* expodynamicappiconexample-Bridging-Header.h */,
-				86548361F2004220A8EC9E52 /* DynamicAppIcons */,
-				03F7EB5D392B612FE55E4A59 /* PrivacyInfo.xcprivacy */,
+				EE3F6E76824342B3B99C59AE /* noop-file.swift */,
+				9F10C26FA46847489938DFE1 /* expodynamicappiconexample-Bridging-Header.h */,
+				DFFE3AEA513944AFB8CB539F /* DynamicAppIcons */,
+				5020F1A1390B082B69E8AF40 /* PrivacyInfo.xcprivacy */,
 			);
 			name = expodynamicappiconexample;
 			sourceTree = "<group>";
@@ -122,22 +122,6 @@
 			name = Products;
 			sourceTree = "<group>";
 		};
-		86548361F2004220A8EC9E52 /* DynamicAppIcons */ = {
-			isa = PBXGroup;
-			children = (
-				AA397A54BB8C47278A5D4C5F /* rabbit-Icon-$60x60@2x.png */,
-				40920A0A871A46608E3934EA /* rabbit-Icon-$60x60@3x.png */,
-				870092CB78864E3A92454158 /* rabbit-Icon-$60x60@2x~ipad.png */,
-				A82358580AB549CBA31D2B50 /* rabbit-Icon-$60x60@3x~ipad.png */,
-				AB607A18C88348378CA1CFC1 /* goose-Icon-$60x60@2x.png */,
-				DD104F63CDBE4C5E9C385F5C /* goose-Icon-$60x60@3x.png */,
-				5AEB87A4ACDB41D6BE8215A3 /* goose-Icon-$60x60@2x~ipad.png */,
-				2866087654474D6BA0C137F4 /* goose-Icon-$60x60@3x~ipad.png */,
-			);
-			name = DynamicAppIcons;
-			path = "";
-			sourceTree = "<group>";
-		};
 		92DBD88DE9BF7D494EA9DA96 /* expodynamicappiconexample */ = {
 			isa = PBXGroup;
 			children = (
@@ -172,6 +156,22 @@
 			name = ExpoModulesProviders;
 			sourceTree = "<group>";
 		};
+		DFFE3AEA513944AFB8CB539F /* DynamicAppIcons */ = {
+			isa = PBXGroup;
+			children = (
+				3A04AC5D41784683B1F9042A /* rabbit-Icon-$60x60@2x.png */,
+				0BA1D3C49F6C489F925835D6 /* rabbit-Icon-$60x60@3x.png */,
+				4900230101124EA6A49E4DFD /* rabbit-Icon-$60x60@2x~ipad.png */,
+				CA22274F551240FB942B6E3E /* rabbit-Icon-$60x60@3x~ipad.png */,
+				B3C0999889A54242BF1B33B4 /* goose-Icon-$60x60@2x.png */,
+				FC8DCBA786FD4BA4916FAE8D /* goose-Icon-$60x60@3x.png */,
+				46EBBB7324D74CD0BC9FFAF8 /* goose-Icon-$60x60@2x~ipad.png */,
+				E908FBCAD17C48D0B48C7E8F /* goose-Icon-$60x60@3x~ipad.png */,
+			);
+			name = DynamicAppIcons;
+			path = "";
+			sourceTree = "<group>";
+		};
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
@@ -180,13 +180,13 @@
 			buildConfigurationList = 13B07F931A680F5B00A75B9A /* Build configuration list for PBXNativeTarget "expodynamicappiconexample" */;
 			buildPhases = (
 				08A4A3CD28434E44B6B9DE2E /* [CP] Check Pods Manifest.lock */,
-				56EBFA698D2AC94F5784220A /* [Expo] Configure project */,
+				4EB85F4F8B132AAE3F5BE9BC /* [Expo] Configure project */,
 				13B07F871A680F5B00A75B9A /* Sources */,
 				13B07F8C1A680F5B00A75B9A /* Frameworks */,
 				13B07F8E1A680F5B00A75B9A /* Resources */,
 				00DD1BFF1BD5951E006B06BC /* Bundle React Native code and images */,
 				800E24972A6A228C8D4807E9 /* [CP] Copy Pods Resources */,
-				25FA503810EDD428161853B8 /* [CP] Embed Pods Frameworks */,
+				8DDFE1C8F5EA014026EA4AC0 /* [CP] Embed Pods Frameworks */,
 			);
 			buildRules = (
 			);
@@ -236,15 +236,15 @@
 				BB2F792D24A3F905000567C9 /* Expo.plist in Resources */,
 				13B07FBF1A68108700A75B9A /* Images.xcassets in Resources */,
 				3E461D99554A48A4959DE609 /* SplashScreen.storyboard in Resources */,
-				739C83CFB2254675A1C90CB3 /* rabbit-Icon-$60x60@2x.png in Resources */,
-				E39E49B18DDF4A66B030D920 /* rabbit-Icon-$60x60@3x.png in Resources */,
-				4341BCD9D73F42C48BE571A5 /* rabbit-Icon-$60x60@2x~ipad.png in Resources */,
-				AA31150292BB4A5DBE85011A /* rabbit-Icon-$60x60@3x~ipad.png in Resources */,
-				5D4A7791D8BA4CBAA20B40F7 /* goose-Icon-$60x60@2x.png in Resources */,
-				648E75B8A10845E3AA187FB9 /* goose-Icon-$60x60@3x.png in Resources */,
-				E071B9FB286F43E7AFF8C880 /* goose-Icon-$60x60@2x~ipad.png in Resources */,
-				C52A75A22FB14605853E6012 /* goose-Icon-$60x60@3x~ipad.png in Resources */,
-				9EA49466354D6A322F545861 /* PrivacyInfo.xcprivacy in Resources */,
+				06188D77953F47A78D0C62B6 /* rabbit-Icon-$60x60@2x.png in Resources */,
+				1DB016335ED7423B86EDCEBD /* rabbit-Icon-$60x60@3x.png in Resources */,
+				F24A40D602894718BEA2B1D4 /* rabbit-Icon-$60x60@2x~ipad.png in Resources */,
+				B60F5037897E4C51BA833B18 /* rabbit-Icon-$60x60@3x~ipad.png in Resources */,
+				64BD1FE400E34E8DA93FB3BA /* goose-Icon-$60x60@2x.png in Resources */,
+				4FD5B28AC43444E1968C68C8 /* goose-Icon-$60x60@3x.png in Resources */,
+				7F29546859B24EA392BCC59F /* goose-Icon-$60x60@2x~ipad.png in Resources */,
+				98F24F4600A04470AE14BA17 /* goose-Icon-$60x60@3x~ipad.png in Resources */,
+				60DA1650804857A6BEFEE7CA /* PrivacyInfo.xcprivacy in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -288,25 +288,7 @@
 			shellScript = "diff \"${PODS_PODFILE_DIR_PATH}/Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [ $? != 0 ] ; then\n    # print error to STDERR\n    echo \"error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\" >&2\n    exit 1\nfi\n# This output is used by Xcode 'outputs' to avoid re-running this script phase.\necho \"SUCCESS\" > \"${SCRIPT_OUTPUT_FILE_0}\"\n";
 			showEnvVarsInLog = 0;
 		};
-		25FA503810EDD428161853B8 /* [CP] Embed Pods Frameworks */ = {
-			isa = PBXShellScriptBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-			);
-			inputPaths = (
-				"${PODS_ROOT}/Target Support Files/Pods-expodynamicappiconexample/Pods-expodynamicappiconexample-frameworks.sh",
-				"${PODS_XCFRAMEWORKS_BUILD_DIR}/hermes-engine/Pre-built/hermes.framework/hermes",
-			);
-			name = "[CP] Embed Pods Frameworks";
-			outputPaths = (
-				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/hermes.framework",
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-			shellPath = /bin/sh;
-			shellScript = "\"${PODS_ROOT}/Target Support Files/Pods-expodynamicappiconexample/Pods-expodynamicappiconexample-frameworks.sh\"\n";
-			showEnvVarsInLog = 0;
-		};
-		56EBFA698D2AC94F5784220A /* [Expo] Configure project */ = {
+		4EB85F4F8B132AAE3F5BE9BC /* [Expo] Configure project */ = {
 			isa = PBXShellScriptBuildPhase;
 			alwaysOutOfDate = 1;
 			buildActionMask = 2147483647;
@@ -357,6 +339,24 @@
 			shellScript = "\"${PODS_ROOT}/Target Support Files/Pods-expodynamicappiconexample/Pods-expodynamicappiconexample-resources.sh\"\n";
 			showEnvVarsInLog = 0;
 		};
+		8DDFE1C8F5EA014026EA4AC0 /* [CP] Embed Pods Frameworks */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+				"${PODS_ROOT}/Target Support Files/Pods-expodynamicappiconexample/Pods-expodynamicappiconexample-frameworks.sh",
+				"${PODS_XCFRAMEWORKS_BUILD_DIR}/hermes-engine/Pre-built/hermes.framework/hermes",
+			);
+			name = "[CP] Embed Pods Frameworks";
+			outputPaths = (
+				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/hermes.framework",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${PODS_ROOT}/Target Support Files/Pods-expodynamicappiconexample/Pods-expodynamicappiconexample-frameworks.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
 /* End PBXShellScriptBuildPhase section */
 
 /* Begin PBXSourcesBuildPhase section */
@@ -367,7 +367,7 @@
 				13B07FBC1A68108700A75B9A /* AppDelegate.mm in Sources */,
 				13B07FC11A68108700A75B9A /* main.m in Sources */,
 				B18059E884C0ABDD17F3DC3D /* ExpoModulesProvider.swift in Sources */,
-				4F176FC8BF0C4C8E8193D259 /* noop-file.swift in Sources */,
+				201149F5729441729B23A6F1 /* noop-file.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

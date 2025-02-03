@@ -7,7 +7,7 @@ PODS:
     - ExpoModulesCore
   - ExpoAsset (11.0.3):
     - ExpoModulesCore
-  - ExpoDynamicAppIcon (1.0.0):
+  - ExpoDynamicAppIcon (1.0.2):
     - ExpoModulesCore
   - ExpoFileSystem (18.0.8):
     - ExpoModulesCore
@@ -1779,7 +1779,7 @@ SPEC CHECKSUMS:
   EXConstants: aa93a3e70f8b37c81a80931cfd23f860b1819167
   Expo: c124b1c2129e79a181c16c364aec9add939bea24
   ExpoAsset: 77e4579f19b48d6b3f4055c933e86ce45e80caeb
-  ExpoDynamicAppIcon: 917fd912c444f36f66167040c74b699bce1a4524
+  ExpoDynamicAppIcon: 596f970e340f40c653e9101f757423478f5160f2
   ExpoFileSystem: 48e09d173f2ffe87fe318243d78d1fd650801535
   ExpoFont: 8b14db1afebf62e9774613a082e402985f4e747c
   ExpoKeepAwake: 1f74cdf53ab3b3aeb7110f18eb053c92e7c3e710
